@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🌱 I’m currently learning how to stroke fishes efficiently!
+### 🌱 I’m currently learning how to fish efficiently!
