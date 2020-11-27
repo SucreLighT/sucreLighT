@@ -15,11 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<div>
             
-            
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=tangtangsama&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-
 ### 你好，世界 👋
 #### 🌱 I’m currently learning how to fish efficiently!
 
@@ -27,4 +24,10 @@ Here are some ideas to get you started:
 - :mortar_board: Master reading
 - :books: Studying hardly
 - :email: sucre@nuaa.edu.cn
+</div>
+
+<div>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=tangtangsama&show_icons=true&theme=cobalt" />
+</div>
+
 
