@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=tangtangsama&show_icons=true&theme=cobalt" />
             
 ### 你好，世界 👋
-#### 🌱 I’m currently learning how to fish efficiently!
 
 - :blue_book: Focusing on Java
 - :mortar_board: Master reading
