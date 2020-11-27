@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tangtangsama&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tangtangsama)](https://github.com/anuraghazra/github-readme-stats)
             
 ### 你好，世界 👋
 #### 🌱 I’m currently learning how to fish efficiently!
