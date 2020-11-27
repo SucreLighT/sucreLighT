@@ -24,9 +24,6 @@ Here are some ideas to get you started:
 - :mortar_board: Master reading
 - :books: Studying hardly
 - :email: sucre@nuaa.edu.cn
-</div>
-
-<div>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=tangtangsama&show_icons=true&theme=cobalt" />
 </div>
 
