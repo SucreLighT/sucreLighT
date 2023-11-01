@@ -1,7 +1,7 @@
 
 
 <!--
-**ucreLighT/sucreLighT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SucreLighT/sucreLighT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
 Here are some ideas to get you started:
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=tangtangsama&show_icons=true&theme=cobalt" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=sucreLighT&show_icons=true&theme=cobalt" />
             
 ### I’m currently learning how to fish efficiently! 👋
 
